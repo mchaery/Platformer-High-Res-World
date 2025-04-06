@@ -71,9 +71,6 @@
     <ClInclude Include="LevelB.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="LevelC.h">
       <Filter>Header Files</Filter>
     </ClInclude>

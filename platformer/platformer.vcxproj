@@ -152,7 +152,6 @@
     <ClInclude Include="LevelC.h" />
     <ClInclude Include="Map.h" />
     <ClInclude Include="Menu.h" />
-    <ClInclude Include="resource.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="ShaderProgram.h" />
     <ClInclude Include="stb_image.h" />
