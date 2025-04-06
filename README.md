@@ -1,6 +1,8 @@
 # Mario, Welcome to High-Res World 🌟
 
-![Menu Screen](platformer/assets/playscreen1.png)
+<p align="center">
+  <img src="platformer/assets/playscreen1.png" alt="Menu Screen" width="400"/>
+</p>
 > *A pixel Mario embarks on a journey through a high-resolution vector art world.*
 
 ---
@@ -21,7 +23,9 @@
 ## 🗺️ Levels & Enemies
 
 ### 🧩 Level A (Stage 1)
-![Level A](platformer/assets/playscreen2.png)
+<p align="center">
+  <img src="platformer/assets/playscreen2.png" alt="Level A" width="400"/>
+</p>
 
 - **Theme**: Entry into the High-Res world.
 - **Enemy**: A **guard-type worm** that chases Mario when approached.
@@ -29,7 +33,9 @@
 ---
 
 ### ⚙️ Level B (Stage 2)
-![Level B](platformer/assets/playscreen3.png)
+<p align="center">
+  <img src="platformer/assets/playscreen3.png" alt="Level B" width="400"/>
+</p>
 
 - **Theme**: Mechanized obstacle zone.
 - **Enemies**:
@@ -39,10 +45,12 @@
 ---
 
 ### 🐝 Level C (Stage 3)
-![Level C](platformer/assets/playscreen4.png)
+<p align="center">
+  <img src="platformer/assets/playscreen4.png" alt="Level C" width="400"/>
+</p>
 
 - **Theme**: High-flying danger.
-- **Enemies**: Two **flying bees** that follow Mario through the air using sine wave movement.
+- **Enemies**: Two **flying bees** that follow Mario through the air in a wave movement.
 
 ---
 
@@ -59,16 +67,9 @@
 
 ## 📦 Assets Used
 
-- Pixel-style Mario spritesheet  
-- High-resolution vector-style platforms and enemies  
-- Sound effects: Jump, Game Over, Bling  
-- Background music per level  
-
----
-
-## ✨ Theme & Concept
-
-This game explores the theme of **contrast** — the nostalgic **pixel art** of Mario set against the clean, **high-res vector world**. It visually highlights the feeling of being out of place in a strange environment, while blending both old and new aesthetics.
+- [Spritesheets by Kenney](https://kenney.nl/assets/platformer-pack-redux)
+- [Sound Effects from Mixkit](https://mixkit.co/free-sound-effects/game/)
+- [Background Music from Incompetech](https://incompetech.com/music/royalty-free/music.html)
 
 ---
 
